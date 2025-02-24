@@ -1,6 +1,7 @@
 🚀 Medi-AI
 
 Medi-AI is an AI-powered healthcare solution designed to assist with medical diagnosis, patient monitoring, and automated healthcare insights. The project leverages advanced machine learning models, natural language processing, and computer vision techniques to enhance medical decision-making.
+![Image](https://github.com/user-attachments/assets/4ea158f6-ea28-4d4c-a608-9e53bb12abe3)
 
 📌 Features
 
